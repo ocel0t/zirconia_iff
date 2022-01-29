@@ -3,7 +3,9 @@ Heinz team, Boulder CO, USA, 2021-2022
 
 # iff_bonds_NTM.py
 The iff_bonds_NTM.py script generates missing quadratic bonded term entries.
-Input (file): user defined filename+extension with the missing bonded terms 
+
+Input (file): user defined filename+extension with the missing bonded terms. 
+
 Example input file (from Materials Studio error output):
 '''
 Error: Energy expression: cannot find parameters for torsion: O8(ozr1)-Zr4(zr2)-O3(ozr7)-Zr3(zr4)
